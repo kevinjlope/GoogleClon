@@ -9,3 +9,7 @@ en el navegador y se podra ver los cambios visuales en tiempo real.
 Las clases son genericas y se pueden repetir
 *ID*
 Los Id's son unicos
+
+Diferencia de Grid y Flex
+Grid ayuda a posicionar las etiquetas contenedoras
+El flex ayuda a posicionar el contenido de las etiquetas contenedoras
