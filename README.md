@@ -1,3 +1,3 @@
 # Google Clon
 ### Resultados
-[Google clon](https://kevjlope.github.io/googleClon/index.html "Google clon")
+[Google clon](https://kevjlope.github.io/GoogleClon "Google clon")
